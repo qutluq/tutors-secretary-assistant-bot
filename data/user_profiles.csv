@@ -1,0 +1,5 @@
+id,first_name,last_name,age,grade,email,phone,schedule
+0,Гарри,Поттер,11,5,harry.potter@hogwarts.edu,отсутсвует,[]
+1,Рон,Уизли,11,5,ron.weasley@hogwarts.edu,отсутсвует,[]
+2,Гермиона,Грейнджер,11,5,hermione.gr@hogwarts.edu,отсутсвует,[]
+4,арзу,им,21,4,sdfdf,2134123,"[('09:00', 'пн')]"
