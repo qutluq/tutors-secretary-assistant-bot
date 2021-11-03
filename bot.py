@@ -108,7 +108,7 @@ def custom_response(code, user_profile):
         # show options using buttons
         return CODE_SCHEDULE_RESPONSE, choose_date(code, user_profile)
     
-    return code, ""
+    return "", code
 
 def chat(user_id):
     
